@@ -13,9 +13,9 @@
   "author": "Your Name <your.email@example.com>",
   "license": "MIT",
   "dependencies": {
-    
-MoveStdlib = { local = "../../move-stdlib/", addr_subst = { "std" = "0x1" } }
-AnotherDependency = { local = "../../another-dependency/", addr_subst = { "dep" = "0x2" } }
-
- 
+    // Add your Node.js dependencies here
+  },
+  "devDependencies": {
+    // Add your development dependencies here
+  }
 }
